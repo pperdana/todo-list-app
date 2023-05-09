@@ -19,8 +19,6 @@ Todo list is a website that allows users to create, manage, and track tasks and 
 
 ### Features
 
-Users should be able to:
-
 - Create and manage to-do lists
 - Add and edit tasks
 - Organize tasks
