@@ -26,7 +26,7 @@ Todo list is a website that allows users to create, manage, and track tasks and 
 
 ### Screenshot
 
-<!-- ![](./design/desktop-preview.jpg) -->
+![](./public/todo-list.png)
 
 ## Tech stack
 
